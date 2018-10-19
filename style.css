@@ -1,4 +1,40 @@
-.main{
-    right: 500px;
-    position: absolute;
+body{
+    background: #fff;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+
+main {
+    justify-content: center;
+    height: 100%;
+    display: flex;
+}
+
+.search {
+    justify-content: center;
+    text-align: center;
+    
+}
+
+input{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    height: 30px;
+    margin: 0 auto;
+    
+    
+}
+
+.search img {
+    text-align: center;
+    position: relative;
+    height: 50%;
+    width: 50%;
+    margin: 40px;
+
+
+    
+
 }
